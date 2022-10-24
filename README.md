@@ -1,7 +1,7 @@
 # CaseCreator
-CaseCreator for Bloxrocket made in .NET Framework 4.8
-This uses the Rolimons API to fetch the latest limiteds
-Note: This was originally a private test project so the code is be very messy and the UI is poorly designed
+This is a CaseCreator for Bloxrocket made in .NET Framework 4.8!
+This uses the Rolimons API to fetch the latest limiteds.
+Note: This was originally a private test project so the code is be very messy and the UI is poorly designed.
 
 Example:
 
